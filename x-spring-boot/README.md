@@ -14,8 +14,6 @@
 
     maven clean package
 
-    注:需使用maven插件
-
 #部署到tomcat的注意事项:
 
 hello.Application 必须要继承 SpringBootServletInitializer 类
